@@ -2,4 +2,4 @@
 
 | # | Code  | State |
 |:-:|:-:|:-:|
-|1|[Code](https://github.com/lfteixeira996/CodeWars/tree/master/Python/8kyu/Multiply/Multiply.py)|:white_check_mark:|
+|1|[ex01](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_04/ex01.py)|:white_check_mark:|
