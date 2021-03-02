@@ -8,6 +8,7 @@
 |29|[ex29](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_07/P1/ex29.py)|:white_check_mark:|
 |30|[ex30](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_07/P1/ex30.py)|:white_check_mark:|
 |31|[ex31](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_07/P1/ex31.py)|:white_check_mark:|
+|32|[ex32](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_07/P1/ex32.py)|:white_check_mark:|
 
 
 
