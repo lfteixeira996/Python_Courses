@@ -3,6 +3,11 @@
 | # | Code  | State |
 |:-:|:-:|:-:|
 |1|[ex01](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_08/ex01.py)|:white_check_mark:|
+|2|[ex02](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_08/ex02.py)|:white_check_mark:|
+|3|[ex03](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_08/ex03.py)|:white_check_mark:|
+|22|[ex22](https://github.com/lfteixeira996/Python_Courses/blob/main/Udemy/Secao_08/ex22.py)|:white_check_mark:|
+
+
 
 
 
