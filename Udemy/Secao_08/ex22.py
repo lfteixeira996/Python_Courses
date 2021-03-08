@@ -19,4 +19,4 @@ def print_linhas(n):
 
 
 
-print_linhas(10)		
+print_linhas(10)
