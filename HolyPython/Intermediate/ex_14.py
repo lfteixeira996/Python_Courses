@@ -28,13 +28,13 @@ print(lst2)
 #Exercise 14-c
 #Using filter() and list() functions and .lower() method filter all the vowels in a given string.
 
-"""print('Exercise 14-c')
+print('Exercise 14-c')
 str1="Winter Olympics in 2022 will take place in Beijing China"
 #Type your answer here.
 
-lst= list(filter( lambda x: x.lower().isalpha(), str1))
+lst= list(filter(lambda x: x.lower() in "aeiou", str1))
 
-print(lst)"""
+print(lst)
 
 ################################################
 #Exercise 14-d
