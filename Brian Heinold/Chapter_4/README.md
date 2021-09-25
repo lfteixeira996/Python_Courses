@@ -1,3 +1,3 @@
 | # | Exercise |  Date  | State |
 |:-:|:-:|:-:|:-:|
-| # | [CodeWars](https://www.codewars.com/dashboard) | 25-09-2021 |:white_check_mark:|
+| # | [EX 1](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_4/ex1.py) | 25-09-2021 |:white_check_mark:|
