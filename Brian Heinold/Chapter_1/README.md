@@ -1,0 +1,4 @@
+| # | Exercise |  Date  | State |
+|:-:|:-:|:-:|:-:|
+| # | [EX 1](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_1/ex1.py) | 29-09-2021 |:white_check_mark:|
+| # | [EX 4](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_1/ex4.py) | 29-09-2021 |:white_check_mark:|
