@@ -11,3 +11,7 @@
 | # | [EX 9](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex9.py) | 01-10-2021 |:x:|
 | # | [EX 10](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex10.py) | 01-10-2021 |:white_check_mark:|
 | # | [EX 11](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex11.py) | 01-10-2021 |:white_check_mark:|
+| # | [EX 12](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex12.py) | 01-10-2021 |:x:|
+| # | [EX 13](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex13.py) | 01-10-2021 |:x:|
+| # | [EX 14](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex14.py) | 01-10-2021 |:x:|
+| # | [EX 15](https://github.com/lfteixeira996/Python_Courses/blob/master/Brian%20Heinold/Chapter_3/ex15.py) | 01-10-2021 |:x:|
